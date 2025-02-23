@@ -19,7 +19,7 @@
   "files": [
     "dist/"
   ],
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
   "react-native": "dist/index.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
